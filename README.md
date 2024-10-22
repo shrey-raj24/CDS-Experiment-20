@@ -19,8 +19,8 @@ Visual Studio Code
 ### Code 
 (A) 
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - SHREY RAJ 
+// PRN - 23070123123 
 // EXPERIMENT - 20(A) 
 
 #include<iostream>
@@ -74,8 +74,8 @@ int main() {
 
 (B) 
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - SHREY RAJ 
+// PRN - 23070123123
 // EXPERIMENT - 20(B) 
 
 #include<iostream>
@@ -130,8 +130,8 @@ int main() {
 
 (C) 
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - SHREY RAJ 
+// PRN - 23070123123
 // EXPERIMENT - 20(C) 
 
 #include<iostream>
